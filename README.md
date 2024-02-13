@@ -1,5 +1,3 @@
-# clusterai2022_tps
-En este repositorio, se comparten los trabajos prácticos desarrollados en la cursada de la electiva "Ciencia de Datos" para la carrera de Ingeniería Industrial.
-Universidad: UTN
-Facultad: Buenos Aires
-Año: 2022
+# Martino_Santiago_DS_Repository
+En este repositorio, se comparten los proyectos de elaboración propia, destinados a la investigación y aplicación de conceptos de Ciencia de Datos en distintas áreas de conocimiento.
+En el mismo se podrán encontrar trabajos realizados con múltiples librerias de Python específicas para cada tarea, desde el análisis exploratorio hasta la aplicación de algoritmos para aprendizaje y predicción.
